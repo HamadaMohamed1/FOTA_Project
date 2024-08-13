@@ -1,0 +1,3 @@
+../Src/MCAL/SPI/SPI.c:15:15:SPI_init	3
+../Src/MCAL/SPI/SPI.c:46:15:SPI_send	7
+../Src/MCAL/SPI/SPI.c:68:15:SPI_receive	7

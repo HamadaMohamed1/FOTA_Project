@@ -1,0 +1,11 @@
+../Src/MCAL/FLASH/Flash.c:17:15:Flash_Lock	16	static
+../Src/MCAL/FLASH/Flash.c:31:15:Flash_Unlock	16	static
+../Src/MCAL/FLASH/Flash.c:45:15:Flash_Mass_Erase	16	static
+../Src/MCAL/FLASH/Flash.c:67:15:Flash_Sector_Erase	24	static
+../Src/MCAL/FLASH/Flash.c:94:15:Flash_Program	16	static
+../Src/MCAL/FLASH/Flash.c:116:15:FLASH_OPT_Lock	4	static
+../Src/MCAL/FLASH/Flash.c:128:15:FLASH_OPT_Unlock	4	static
+../Src/MCAL/FLASH/Flash.c:142:15:Flash_Enable_Sectors_Protections	16	static
+../Src/MCAL/FLASH/Flash.c:172:15:Flash_Disable_Sectors_Protections	16	static
+../Src/MCAL/FLASH/Flash.c:200:15:Flash_Disable_All_Sectors_Protections	4	static
+../Src/MCAL/FLASH/Flash.c:220:6:Flash_Read_Sector_Status	16	static

@@ -1,0 +1,6 @@
+../Src/Core_Peripheral/NVIC/NVIC.c:18:15:nvic_enable	3
+../Src/Core_Peripheral/NVIC/NVIC.c:43:15:nvic_disable	3
+../Src/Core_Peripheral/NVIC/NVIC.c:68:15:nvic_set_priority	2
+../Src/Core_Peripheral/NVIC/NVIC.c:90:15:nvic_set_pending_flag	3
+../Src/Core_Peripheral/NVIC/NVIC.c:114:15:nvic_clear_pending_flag	3
+../Src/Core_Peripheral/NVIC/NVIC.c:138:15:nvic_get_active_flag	3

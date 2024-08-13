@@ -1,0 +1,4 @@
+../Src/Core_Peripheral/SystTick/SystTick.c:17:15:Systick_init	16	static
+../Src/Core_Peripheral/SystTick/SystTick.c:50:15:Systick_Wait_Blocking	24	static
+../Src/Core_Peripheral/SystTick/SystTick.c:76:6:delay_ms	24	static
+../Src/Core_Peripheral/SystTick/SystTick.c:94:6:delay_us	24	static

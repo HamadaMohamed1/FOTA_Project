@@ -1,0 +1,9 @@
+../Src/HAL/LCD/lcd.c:16:15:lcd_4bit_intialize	3
+../Src/HAL/LCD/lcd.c:49:15:lcd_4bit_send_char_data	2
+../Src/HAL/LCD/lcd.c:73:15:lcd_4bit_send_string	3
+../Src/HAL/LCD/lcd.c:90:15:lcd_4bit_send_command	2
+../Src/HAL/LCD/lcd.c:114:15:lcd_4bit_clear	2
+../Src/HAL/LCD/lcd.c:129:22:lcd_send_4bits	1
+../Src/HAL/LCD/lcd.c:139:22:lcd_4bit_send_enable_signal	1
+../Src/HAL/LCD/lcd.c:149:22:lcd_4bit_set_cursor	5
+../Src/HAL/LCD/lcd.c:162:22:lcd_4bit_pin_init	1

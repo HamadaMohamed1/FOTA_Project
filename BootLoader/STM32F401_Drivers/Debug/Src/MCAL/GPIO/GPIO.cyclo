@@ -1,0 +1,5 @@
+../Src/MCAL/GPIO/GPIO.c:20:15:GPIO_Pin_init	5
+../Src/MCAL/GPIO/GPIO.c:79:15:GPIO_Set_Pin_Value	4
+../Src/MCAL/GPIO/GPIO.c:103:15:GPIO_Set_Port_Value	2
+../Src/MCAL/GPIO/GPIO.c:126:15:GPIO_Toggle_Pin_Value	2
+../Src/MCAL/GPIO/GPIO.c:149:15:GPIO_Get_Pin_Value	3

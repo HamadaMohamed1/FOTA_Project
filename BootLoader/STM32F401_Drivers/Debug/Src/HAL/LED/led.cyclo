@@ -1,0 +1,4 @@
+../Src/HAL/LED/led.c:16:15:led_initialize	2
+../Src/HAL/LED/led.c:41:15:led_turn_on	2
+../Src/HAL/LED/led.c:61:15:led_turn_off	2
+../Src/HAL/LED/led.c:81:15:led_turn_toggle	2

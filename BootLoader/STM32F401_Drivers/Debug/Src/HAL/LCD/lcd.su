@@ -1,0 +1,10 @@
+../Src/HAL/LCD/lcd.c:16:15:lcd_4bit_intialize	24	static
+../Src/HAL/LCD/lcd.c:49:15:lcd_4bit_send_char_data	24	static
+../Src/HAL/LCD/lcd.c:73:15:lcd_4bit_send_string	24	static
+../Src/HAL/LCD/lcd.c:90:15:lcd_4bit_send_command	24	static
+../Src/HAL/LCD/lcd.c:114:15:lcd_4bit_clear	24	static
+../Src/HAL/LCD/lcd.c:130:15:lcd_4bit_send_string_pos	32	static
+../Src/HAL/LCD/lcd.c:138:22:lcd_send_4bits	24	static
+../Src/HAL/LCD/lcd.c:148:22:lcd_4bit_send_enable_signal	24	static
+../Src/HAL/LCD/lcd.c:158:22:lcd_4bit_set_cursor	24	static
+../Src/HAL/LCD/lcd.c:171:22:lcd_4bit_pin_init	24	static

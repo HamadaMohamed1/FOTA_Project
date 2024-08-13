@@ -1,0 +1,41 @@
+/*
+ * SystTick_Private.h
+ *
+ *  Created on: Mar 15, 2024
+ *      Author: hamada
+ */
+
+#ifndef CORE_PERIPHERAL_SYSTTICK_SYSTTICK_PRIVATE_H_
+#define CORE_PERIPHERAL_SYSTTICK_SYSTTICK_PRIVATE_H_
+
+
+
+/******************* Macro Declarations *******************/
+
+#define SYSTICK_CLOCK_SOURCE_DIV_1 			0U
+#define SYSTICK_CLOCK_SOURCE_DIV_8 			1U
+
+#define SYSTICK_CLOCK_SOURCE	 			(SYSTICK_CLOCK_SOURCE_DIV_1)
+
+
+#define STSTICK_LOAD_VALUE_POS				1U
+#define STSTICK_LOAD_VALUE_ACCESS			24U
+
+
+#define SYSTICK_CSR_ENABLE_POS 				0U
+#define SYSTICK_CSR_ENABLE_MASK 			1U
+
+
+#define SYSTICK_CSR_CLOCK_POS 				2U
+#define SYSTICK_CSR_CLOCK_MASK				1U
+
+#define SYSTICK_CSR_COUNTFLAG_POS 			16U
+#define SYSTICK_CSR_COUNTFLAG_MASK			1U
+
+
+
+
+
+
+
+#endif /* CORE_PERIPHERAL_SYSTTICK_SYSTTICK_PRIVATE_H_ */

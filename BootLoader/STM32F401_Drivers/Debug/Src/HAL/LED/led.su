@@ -1,0 +1,4 @@
+../Src/HAL/LED/led.c:16:15:led_initialize	24	static
+../Src/HAL/LED/led.c:41:15:led_turn_on	24	static
+../Src/HAL/LED/led.c:61:15:led_turn_off	24	static
+../Src/HAL/LED/led.c:81:15:led_turn_toggle	24	static

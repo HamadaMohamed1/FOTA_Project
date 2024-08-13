@@ -1,0 +1,3 @@
+../Src/HAL/Dot_Matrix/DotMatrix.c:21:15:DotMatrix_init	32	static
+../Src/HAL/Dot_Matrix/DotMatrix.c:48:15:DotMatrix_TurnOff	16	static
+../Src/HAL/Dot_Matrix/DotMatrix.c:67:15:DotMatrix_Set_Led_Val	24	static

@@ -1,0 +1,13 @@
+../Src/MCAL/USART/USART.c:41:15:USART_init	24	static
+../Src/MCAL/USART/USART.c:96:15:USART_de_init	24	static
+../Src/MCAL/USART/USART.c:138:15:USART_send_byte_blocking	24	static
+../Src/MCAL/USART/USART.c:165:15:USART_receive_byte_blocking	24	static
+../Src/MCAL/USART/USART.c:187:15:USART_send_string_blocking	24	static
+../Src/MCAL/USART/USART.c:211:15:USART_receive_string_blocking	24	static
+../Src/MCAL/USART/USART.c:237:6:usart_set_baud_rate	32	static
+../Src/MCAL/USART/USART.c:262:6:USART_set_Tx_Rx_mode	16	static
+../Src/MCAL/USART/USART.c:312:15:USART_send_byte_IT	16	static
+../Src/MCAL/USART/USART.c:331:15:USART_receive_byte_IT	16	static
+../Src/MCAL/USART/USART.c:346:6:USART2_IRQHandler	4	static
+../Src/MCAL/USART/USART.c:375:6:USART1_IRQHandler	4	static
+../Src/MCAL/USART/USART.c:403:6:USART6_IRQHandler	4	static

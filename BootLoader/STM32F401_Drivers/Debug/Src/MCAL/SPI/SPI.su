@@ -1,0 +1,3 @@
+../Src/MCAL/SPI/SPI.c:15:15:SPI_init	24	static
+../Src/MCAL/SPI/SPI.c:46:15:SPI_send	32	static
+../Src/MCAL/SPI/SPI.c:68:15:SPI_receive	32	static
