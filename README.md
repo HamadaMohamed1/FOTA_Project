@@ -5,7 +5,7 @@
 ## Description : 
 Firmware Over-The-Air (FOTA) is a technology that enables remote updates of a device's firmware without needing physical access. This allows for the deployment of new features, bug fixes, and improvements efficiently and conveniently.
 It builds on the custom bootloader I previously developed and integrates several advanced technologies, 
-#### including : STM32F401, NodeMCU, Adafruit IO Broker,and Firebase.
+#### including : STM32F401, NodeMCU ESP8266, Adafruit IO Broker,and Firebase.
 ## Drivers Developed :
 #### SYSTICK, RCC, NVIC, SCB, CRC, FLASH Interface, GPIO, UART, and DOT MATRIX.
 ## Programming Languages : 
